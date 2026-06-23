@@ -1,0 +1,14 @@
+{
+  "name": "layers-book-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Marketing site for LAYERS — a marriage book by Christopher & Lisa Peer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED"
+}
